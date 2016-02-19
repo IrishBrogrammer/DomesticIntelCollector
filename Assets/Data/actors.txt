@@ -1,0 +1,17 @@
+{
+			"Name" : "Bob",
+			"Emails" : [
+			{
+					"From" : "Brian",
+					"To" : "Bob",
+					"Content" : " Hello World ",
+					"IsRead" : false
+			},
+			{
+					"From" : "Brian",
+					"To" : "Bob",
+					"Content" : " Where have you been ",
+					"IsRead" : false
+			}
+			]
+}
